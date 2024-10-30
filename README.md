@@ -1,0 +1,1 @@
+# BlazorWASMSafari14Compat
